@@ -6,6 +6,6 @@ includeUnimodulesProjects()
 include ':react-native-gesture-handler'
 project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gesture-handler/android')
 
-rootProject.name = 'ImcAppReactNative'
+rootProject.name = 'ImcApp'
 
 include ':app'

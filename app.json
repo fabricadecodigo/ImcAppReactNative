@@ -1,8 +1,8 @@
 {
-  "name": "ImcAppReactNative",
-  "displayName": "HandsOn React Native para Iniciantes",
+  "name": "ImcApp",
+  "displayName": "Exemplo de um app de calculo de IMC com react native",
   "expo": {
-    "name": "ImcAppReactNative",
+    "name": "ImcApp",
     "slug": "expo-template-bare",
     "privacy": "unlisted",
     "sdkVersion": "34.0.0",
