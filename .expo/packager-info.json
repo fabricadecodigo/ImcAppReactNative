@@ -2,8 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 11124,
-  "expoServerNgrokUrl": "https://59-iw6.anonymous.imcapp.exp.direct",
-  "packagerNgrokUrl": "https://packager.59-iw6.anonymous.imcapp.exp.direct",
-  "ngrokPid": 7056
+  "packagerPid": 14408,
+  "expoServerNgrokUrl": "https://59-iw6.anonymous.imcappdev.exp.direct",
+  "packagerNgrokUrl": "https://packager.59-iw6.anonymous.imcappdev.exp.direct",
+  "ngrokPid": 12616
 }
