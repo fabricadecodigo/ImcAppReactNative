@@ -1,2 +1,2 @@
-# Exempl de um app de calculo de imc usando React Native
+# Exemplo de um app de calculo de imc usando React Native
 
