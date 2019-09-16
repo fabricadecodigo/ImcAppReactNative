@@ -22,7 +22,7 @@ export default class App extends Component {
         <ImcForm showResult={(this.showResult)} />
 
         {this.state.showResult && (
-          <ImcRestult imc="18" classificacao="Magreza" grauObesidade="0" />  
+          <ImcRestult imc={this.state.imc} classificacao={this.state.classificacao} grauObesidade={this.state.grauObesidade} />
         )}
       </View>
     );
